@@ -1,0 +1,1 @@
+Bu projemizde sıralı, sırasız, block, inline elementlerin ve etiketlerin kullanımını pekiştirmek amaçlı ödev yaptım.
